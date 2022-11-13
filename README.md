@@ -11,3 +11,8 @@ Tecnologias de domínio:
 - Codeigniter
 - mySql
 - SQL Server
+
+
+## PESSOAL
+
+![Bora jogar?](https://media3.giphy.com/media/ZJ6r7T0GWbfdyXgVYs/200w.webp?cid=ecf05e47qlpcn6qzoyiwmfe3k9ccnir7ugx9okgobak8va8l&rid=200w.webp&ct=g)
